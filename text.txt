@@ -5,15 +5,15 @@
 
  id  usernam  age,  phone ,       address ,  salary,   country,    created_at,    updated_at
 
- 1.  'pablu'  '20'  '01769695684'  'sylhet'  '2000'  'bangladesh'  '06-06-22'    '06-06-06'
+ 1.  'Pablu'  '20'  '01769695684'  'sylhet'  '2000'  'bangladesh'  '06-06-22'    '06-06-06'
 
- 2.  'pablu'  '22'  '01730903327'  'hobigonj'  '3000'  'pakistan'  '06-06-22'    '06-06-06' 
+ 2.  'Saleh'  '22'  '01730903327'  'hobigonj'  '3000'  'pakistan'  '06-06-22'    '06-06-06' 
 
- 3.  'pablu'  '19'  '01765909084'  'uposhor'  '15000'  'bangladesh'  '06-06-22'    '06-06-06'
+ 3.  'Ahmed'  '19'  '01765909084'  'uposhor'  '15000'  'bangladesh'  '06-06-22'    '06-06-06'
 
- 4.  'pablu'  '23'  '01756668874'  'kolkatat'  '12000'  'india'  '06-06-22'    '06-06-06'
+ 4.  'Joy'  '23'  '01756668874'  'kolkatat'  '12000'  'india'  '06-06-22'    '06-06-06'
 
- 5.  'pablu'  '24'  '01769695680'  'london'  '25000'  'uk'  '06-06-22'    '06-06-06'
+ 5.  'Ruhul'  '24'  '01769695680'  'london'  '25000'  'uk'  '06-06-22'    '06-06-06'
 
 
 
